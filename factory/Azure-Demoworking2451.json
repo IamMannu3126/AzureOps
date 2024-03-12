@@ -1,0 +1,9 @@
+{
+	"name": "Azure-Demoworking2451",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f599cbc9-01be-4f06-93fc-446239acd38b",
+		"tenantId": "03443ba4-fb6a-4219-8342-173f1d183a9d"
+	}
+}
